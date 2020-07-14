@@ -1,3 +1,6 @@
+* * *
+
+
 <p align="center">
   <a href="https://github.com/reyeon1209/Server_Project/">
     <img src="https://user-images.githubusercontent.com/46713032/87028067-0742a300-c219-11ea-934b-f691c3b7d092.png" alt="Website logo" width="200" height="80">
