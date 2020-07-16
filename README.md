@@ -54,3 +54,6 @@
 - 프로젝트 개발 환경 : VS Code, Atom
 - 프로젝트 대상 플랫폼 : Window 10, Chrome 83
 - 프로젝트 언어 : html, css, javascript, jquery, node.js
+
+
+made by reyeon
